@@ -1,0 +1,11 @@
+var j1 = localStorage.getItem("nome1");
+var j2 = localStorage.getItem("nome2");
+var j1Score = 0;
+var j2Score = 0;
+document.getElementById("player1").innerHTML=j1;
+document.getElementById("player2").innerHTML=j2;
+document.getElementById("player1").innerHTML=j1;
+document.getElementById("player1Points").innerHTML=j1Score;
+document.getElementById("player2Points").innerHTML=j2Score;
+document.getElementById("turnoPergunta").innerHTML="Turno de pergunta do: "+j1;
+document.getElementById("turnoResposta").innerHTML="Turno de resposta do: "+j2;

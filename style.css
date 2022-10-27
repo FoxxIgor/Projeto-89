@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#divPlayer1{
+    background-color: rgb(124, 67, 161);
+    color:white;
+    border-radius: 20px;
+}
+#divPlayer2{
+    background-color: rgb(124, 67, 161);
+    color:white;
+    border-radius: 20px;
+}
+#jogador1{
+    border-radius: 20px;
+}
+#jogador2{
+    border-radius: 10px;
+}
+#iniciar{
+    border-radius: 10px;
+    color: white;
+    background-color: blueviolet;
+}
+#n1Div{
+    background-color: blueviolet;
+    color:white;
+    border-radius: 10px;
+}
+#n2Div{
+    background-color: blueviolet;
+    color:white;
+    border-radius: 10px;
+}
+#n1Input{
+    border-radius: 30px;
+}
+#n2Input{
+    border-radius: 30px;
+}
+#enviar{
+    border-radius: 10px;
+    background-color: blueviolet;
+    color: white;
+}
+#tabel{
+    text-align: left;
+}
